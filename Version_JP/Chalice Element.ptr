@@ -1,1 +1,1 @@
-{"description":null,"name":"Chalice Element","dataType":{"TypeString":"System.Byte"},"isValueHex":false,"moduleName":"GC","moduleOffset":2340991,"pointerOffsets":null}
+{"description":null,"name":"Chalice Element","dataType":{"TypeString":"System.UInt32BigEndian"},"isValueHex":false,"moduleName":"GC","moduleOffset":2340988,"pointerOffsets":null}
